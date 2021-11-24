@@ -44,3 +44,12 @@ Puedes también encontrar el diagrama en Lucidchart:
 * [Diagrama en UML](https://lucid.app/lucidchart/e5f2e00a-3610-466f-b8b4-211649de9fd1/view)
 
 ![Diagrama: ](img/DiagramaUML.jpg)
+
+## Principios Utilzados ✔
+##### **Demeter:**
+
+En que el jugador solo se limita a tirar los dados, sin saber el proceso que hay detras, por ende son necesarios los getters y setters Entonces las clases no conocen los atributos de las otras, solo el funcionamiento
+
+##### **Responsabilidad unica:**
+
+La clase dado tiene una única responsabilidad, que es el dar un numero, por lo tanto tiene una única razón para cambiar
