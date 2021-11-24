@@ -48,7 +48,7 @@ Puedes también encontrar el diagrama en Lucidchart:
 ## Principios Utilzados ✔
 ##### **Demeter:**
 
-En que el jugador solo se limita a tirar los dados, sin saber el proceso que hay detras, por ende son necesarios los getters y setters Entonces las clases no conocen los atributos de las otras, solo el funcionamiento
+En que el jugador solo se limita a tirar los dados, sin saber el proceso que hay detras, por ende son necesarios los getters y setters debido a esto las clases no conocen los atributos de las otras, solo el funcionamiento
 
 ##### **Responsabilidad unica:**
 
