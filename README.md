@@ -42,3 +42,5 @@ _Estudiantes de Ingenieria de Sistemas de la Universidad Distrital_
 ## Diagrama de UML 🖇
 Puedes también encontrar el diagrama en Lucidchart: 
 * [Diagrama en UML](https://lucid.app/lucidchart/e5f2e00a-3610-466f-b8b4-211649de9fd1/view)
+
+![Diagrama: ](img/DiagramaUML.jpg)
